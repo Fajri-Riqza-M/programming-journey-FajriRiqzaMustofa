@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\bin\Debug\6.2 fajri riqza m_xpplg1.exe.config
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\bin\Debug\6.2 fajri riqza m_xpplg1.exe
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\bin\Debug\6.2 fajri riqza m_xpplg1.pdb
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\obj\Debug\6.2 fajri riqza m_xpplg1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\obj\Debug\6.2 fajri riqza m_xpplg1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\obj\Debug\6.2 fajri riqza m_xpplg1.exe
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\obj\Debug\6.2 fajri riqza m_xpplg1.pdb
+C:\Users\USER\Documents\praktik c# f riqza m\6.2 fajri riqza m_xpplg1\6.2 fajri riqza m_xpplg1\obj\Debug\6.2 fajri riqza m_xpplg1.exe.config
