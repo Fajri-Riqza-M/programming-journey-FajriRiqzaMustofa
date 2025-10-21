@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\bin\Debug\4.3_fajri riqza m_xppkg1.exe.config
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\bin\Debug\4.3_fajri riqza m_xppkg1.exe
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\bin\Debug\4.3_fajri riqza m_xppkg1.pdb
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\obj\Debug\4.3_fajri riqza m_xppkg1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\obj\Debug\4.3_fajri riqza m_xppkg1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\obj\Debug\4.3_fajri riqza m_xppkg1.exe
+C:\Users\USER\Documents\praktik c# f riqza m\4.3_fajri riqza m_xppkg1\4.3_fajri riqza m_xppkg1\obj\Debug\4.3_fajri riqza m_xppkg1.pdb
