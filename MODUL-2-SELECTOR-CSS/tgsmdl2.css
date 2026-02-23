@@ -1,0 +1,20 @@
+/* selector tag */
+p {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* selector class */
+.selectorclass {
+    background-color: yellow;
+}
+/* selector id */
+#qwerty {
+    border: 30px solid cyan;
+    padding: 20px;
+    text-align:center;
+}
+/* selector universal */
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
